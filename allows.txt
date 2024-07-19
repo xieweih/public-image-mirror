@@ -550,6 +550,7 @@ quay.io/spotahome/*
 quay.io/strimzi/*
 quay.io/submariner/*
 quay.io/tigera/*
+quay.io/minio/*
 registry.developers.crunchydata.com/crunchydata/pgo-deployer
 registry.gitlab.com/gitlab-org/**
 registry.heroiclabs.com/heroiclabs/nakama
